@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lngeth
 - 👀 I’m interested in new technologies, science and art.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything interesting!
 - 📫 How to reach me linkedin.com/in/laurent-ngeth-349603161
 
 <!---
