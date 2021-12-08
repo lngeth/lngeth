@@ -1,7 +1,6 @@
-## Hi, I’m @lngeth  
-# Who Am I ?  
-I’m currently a student in informatics. 
-- 💞️ I’m looking to collaborate on everything interesting!
+**Hi ! I am @lngeth**
+I am currently studying computer science in Paris.  
+💞️ I’m opened any interesting project!
 
 # My projects
 
@@ -12,5 +11,6 @@ I’m currently a student in informatics.
 -- [TicTacToe](https://github.com/lngeth/TicTacToe) using JavaFX
 
 # My contacts  
+Need to join me? Here is my details :smile:  
 **email :** laurent.ngeth@gmail.com  
 **LinkedIn :** linkedin.com/in/laurentngeth  
