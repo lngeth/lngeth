@@ -6,10 +6,10 @@ I am currently studying computer science in Paris.
 # My projects
 
 ## ![image](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java
-- Algorithmic :  
+- Algorithmic :
   - [Knapsack problem](https://github.com/lngeth/Knapsack-Algorithm)  
 
-- Game programming :  
+- Game programming :
   - [Memory Game](https://github.com/lngeth/MemoryGame) using JavaFX  
   - [TicTacToe](https://github.com/lngeth/TicTacToe) using JavaFX
 
