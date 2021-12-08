@@ -6,18 +6,18 @@ I am currently studying computer science in Paris.
 # My projects
 
 ## Software
-- :brain: Algorithmic :
-  - Java
+- :brain: ***Algorithmic*** :
+  - **Java**
     - [Knapsack problem](https://github.com/lngeth/Knapsack-Algorithm)  
 
 - :video_game: Game programming :
-  - JavaFX
-    - [Memory Game](https://github.com/lngeth/MemoryGame) using JavaFX  
-    - [TicTacToe](https://github.com/lngeth/TicTacToe) using JavaFX
+  - **Java**
+    - [Memory Game](https://github.com/lngeth/MemoryGame) _using JavaFX_
+    - [TicTacToe](https://github.com/lngeth/TicTacToe) _using JavaFX_
 
 ## Web development
-- :desktop_computer: Website :  
-  - Symfony
+- :desktop_computer: ***Website*** :  
+  - **Symfony**
     - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation) 
 
 # My contacts  
