@@ -5,13 +5,20 @@ I am currently studying computer science in Paris.
 
 # My projects
 
-## ![image](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java
-- Algorithmic :
-  - [Knapsack problem](https://github.com/lngeth/Knapsack-Algorithm)  
+## Software
+- :brain: Algorithmic :
+  - Java
+    - [Knapsack problem](https://github.com/lngeth/Knapsack-Algorithm)  
 
-- Game programming :
-  - [Memory Game](https://github.com/lngeth/MemoryGame) using JavaFX  
-  - [TicTacToe](https://github.com/lngeth/TicTacToe) using JavaFX
+- :video_game: Game programming :
+  - JavaFX
+    - [Memory Game](https://github.com/lngeth/MemoryGame) using JavaFX  
+    - [TicTacToe](https://github.com/lngeth/TicTacToe) using JavaFX
+
+## Web development
+- Website :
+  - Symfony
+    - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation) 
 
 # My contacts  
 Need to join me? Here is my details :smile:  
