@@ -1,7 +1,7 @@
 **Hi ! I am @lngeth**  
 I am currently studying computer science in Paris.  
 :nerd_face:️ I’m opened to any interesting project!  
-:fist_right: 	:fist_left: Also to offer my help in anything you want (if I am enough qualified :see_no_evil:)
+:fist_right: :fist_left: Also offering my help with anything you need (if I'm able to :see_no_evil:)
 
 # My projects
 
