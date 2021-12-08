@@ -16,7 +16,7 @@ I am currently studying computer science in Paris.
     - [TicTacToe](https://github.com/lngeth/TicTacToe) using JavaFX
 
 ## Web development
-- Website :
+- :desktop_computer: Website :
   - Symfony
     - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation) 
 
