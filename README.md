@@ -21,7 +21,10 @@ I am currently studying computer science in Paris.
   - **Symfony**
     - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation) 
 
+
+*Each project has a educational purposes only*
+
 # My contacts  
-Need to join me? Here is my details :smile:  
+Need to join me? Here are my details :smile:  
 **email :** laurent.ngeth@gmail.com  
 **LinkedIn :** [linkedin.com/in/laurentngeth](https://www.linkedin.com/in/laurentngeth/)
