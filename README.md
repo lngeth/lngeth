@@ -12,6 +12,7 @@ I am currently studying computer science in Paris.
 
 - :video_game: ***Game programming*** :
   - **Java**
+    - [Pac-Craft](https://github.com/Projet-Tuteure/Projet-Tuteure-S2) _using JavaFX_
     - [Memory Game](https://github.com/lngeth/MemoryGame) _using JavaFX_
     - [TicTacToe](https://github.com/lngeth/TicTacToe) _using JavaFX_
 
@@ -19,8 +20,9 @@ I am currently studying computer science in Paris.
 - :desktop_computer: ***Website*** :
   
   - **Symfony**
-    - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation) 
-
+    - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation)
+  - **HTML/CSS and JS native**
+    - [Projet Tutoré S1](https://github.com/Projet-Tuteure/Projet-Tuteure-S1)  
 
 *Each project has a educational purposes only*
 
