@@ -13,7 +13,7 @@ I am currently studying computer science in Paris.
 - :video_game: ***Game programming*** :
   - **Java**
     - [Pac-Craft](https://github.com/Projet-Tuteure/Projet-Tuteure-S2) _using JavaFX_
-    - [Memory Game](https://github.com/lngeth/MemoryGame) _using JavaFX_
+    - [Memory Game](https://github.com/lngeth/MemoryGame) _using Java Swing_
     - [TicTacToe](https://github.com/lngeth/TicTacToe) _using JavaFX_
 
 ## Web development
