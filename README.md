@@ -9,6 +9,7 @@ I am currently studying computer science in Paris.
 - :brain: ***Algorithmic*** :
   - **Java**
     - [Knapsack problem](https://github.com/lngeth/Knapsack-Algorithm)  
+    - [Calculator](https://github.com/lngeth/Calculator)  
 
 - :video_game: ***Game programming*** :
   - **Java**
@@ -22,7 +23,9 @@ I am currently studying computer science in Paris.
   - **Symfony**
     - [LaBonneLocation](https://github.com/lngeth/LaBonneLocation)
   - **HTML/CSS and JS native**
-    - [Projet Tutoré S1](https://github.com/Projet-Tuteure/Projet-Tuteure-S1)  
+    - [Projet Tutoré S1](https://github.com/Projet-Tuteure/Projet-Tuteure-S1) 
+  - **VueJS**
+    - [Cars-Showdown](https://github.com/lngeth/Cars-Showdown) 
 
 *Each project has a educational purposes only*
 
