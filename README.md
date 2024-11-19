@@ -23,6 +23,10 @@ I am currently studying computer science in Paris.
   - [DogAPI](https://github.com/lngeth/projetnosql) _(Dockerize Django+PostgreSQL+MangoDB)_
   - [TrainAPI](https://github.com/lngeth/projet_train_SOAP) _(SOAP-Axis2 & REST-Restlet)_ 
 
+## Data Analysis/Science/Engineering
+- :notebook: ***Scraping*** :
+  - [Fire Departure Analysis](https://github.com/lngeth/Fire_departure_analysis) _(Python with Selenium)_
+
 *Each project has a educational purposes only*
 
 # My contacts  
